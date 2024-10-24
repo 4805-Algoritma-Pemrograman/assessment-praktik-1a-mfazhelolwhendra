@@ -56,3 +56,9 @@ public class Ulangan1 {
     }
     
 }
+
+tugasDriver
+
+// Deklarasi:
+// var Beliau, Mereka, kita,: String
+// var lama lembur : int
